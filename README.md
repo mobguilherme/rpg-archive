@@ -1,0 +1,1 @@
+Esse repositório contém as imagens para facil acesso para uso no FoundryVTT. 
